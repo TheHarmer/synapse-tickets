@@ -113,7 +113,7 @@ else if(document.URL === "https://synapsesupport.io/ticketmanager/"){
                         <hr class="thick">
                         <div class="columns is-mobile is-multiline" id="B" style="justify-content:center">
                         </div>
-                        <h5 class="title is-3" style="display: flex; justify-content: center;font-weight: 500;">Leaderboard</h5>
+                        <h5 class="title is-3" style="display: flex; justify-content: center;font-weight: 500;">Leaderboard (coming soon)</h5>
                         <hr class="thick">
                         <div class="columns is-mobile is-multiline" id="C" style="justify-content:center">
                         </div>
