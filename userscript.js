@@ -147,7 +147,7 @@ else if(document.URL === "https://synapsesupport.io/ticketmanager/"){
                 $(ticketelement).appendTo('#A')
                 var last_message = new Date(ticketLastMessage.slice(0,-2)).getTime()
                 now = new Date().getTime() - ((300 - new Date().getTimezoneOffset()) * 60000)
-                if((now - last_message) < 259200000) continue
+                if((now - last_message) < 345600000) continue
                 $(ticketelement).appendTo('#B')
             }
         })
